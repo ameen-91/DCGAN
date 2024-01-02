@@ -1,12 +1,5 @@
 ---
 title: Car Gan
-emoji: 🌍
-colorFrom: green
-colorTo: indigo
-sdk: gradio
-sdk_version: 4.12.0
-app_file: app.py
-pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check it out at https://huggingface.co/spaces/norsu/car_gan
